@@ -2,7 +2,7 @@
 
 The project is a basic Inventory Management system using the Django framework. A server will be run as a local host on the machine in use.
 
-##Installation Steps
+## Installation Steps
 
 To effectively use this project, Python version 3.9.10 and Django version 4.0.1 were used. 
 
@@ -14,4 +14,4 @@ For Mac/Linus -> py -m pip install Django
 
 Once Python, pip, and django have been installed, the project can be run
 
-##Running the Website
+## Running the Website
