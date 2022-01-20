@@ -22,5 +22,5 @@ python manage.py runserver
 ```
 
 This will start the local host server to start the webpage
-4. The command prompt will mention "Starting development server at http://127.0.0.1:8000/" or something similar. Please type in the URL mentioned there into a web browser to open up the webpage
-5. To access the admin page to add/delete/view products and inventory amounts, please go to http://127.0.0.1:8000/admin/ . To go to a webpage that just shows product and inventory amounts, please go to http://127.0.0.1:8000/inventory/
+3. The command prompt will mention "Starting development server at http://127.0.0.1:8000/" or something similar. Please type in the URL mentioned there into a web browser to open up the webpage
+4. To access the admin page to add/delete/view products and inventory amounts, please go to http://127.0.0.1:8000/admin/ . To go to a webpage that just shows product and inventory amounts, please go to http://127.0.0.1:8000/inventory/
