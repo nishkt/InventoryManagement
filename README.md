@@ -17,10 +17,13 @@ To effectively use this project, Python version 3.9.10 and Django version 4.0.1 
 ## Running the Website
 1. Open up the command prompt on your pc and go to the project directory where '/website2' is located
 2. Type in the command prompt the following:
+
 ```
 python manage.py runserver
 ```
 
 This will start the local host server to start the webpage
-3. The command prompt will mention "Starting development server at http://127.0.0.1:8000/" or something similar. Please type in the URL mentioned there into a web browser to open up the webpage
-4. To access the admin page to add/delete/view products and inventory amounts, please go to http://127.0.0.1:8000/admin/ . To go to a webpage that just shows product and inventory amounts, please go to http://127.0.0.1:8000/inventory/
+
+## Different views of the webpage
+1. The command prompt will mention "Starting development server at http://127.0.0.1:8000/" or something similar. Please type in the URL mentioned there into a web browser to open up the webpage
+2. To access the admin page to add/delete/view products and inventory amounts, please go to http://127.0.0.1:8000/admin/ . To go to a webpage that just shows product and inventory amounts, please go to http://127.0.0.1:8000/inventory/
